@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> A Vue.js project , just to config a multi-page progject for vue2.x
 
 ## Build Setup
 
