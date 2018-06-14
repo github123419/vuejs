@@ -1,6 +1,7 @@
 # dompet-kamu
 
-> A Vue.js project
+> A Vue.js project(SPA)
+> Apply vue2.x+vuex+localstorage+vue-i18n+bootstrap+jQuery
 
 ## Build Setup
 
