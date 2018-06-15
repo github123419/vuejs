@@ -1,31 +1,22 @@
 # dompet-kamu
 
 > A Vue.js project(SPA)
-> Apply vue2.x+vuex+localstorage+vue-i18n+bootstrap+jQuery
+> 
+> skills: vue2.x+vuex+localstorage+vue-i18n+bootstrap+jQuery
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+## Usage
+<pre>
+# git clone [this url]
 
-# serve with hot reload at localhost:8080
-npm run dev
+# npm/cnpm install
 
-# build for production with minification
-npm run build
+# npm start
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# view in browsers,input url: http://localhost:8080/pages/index
+</pre>
 
-# run unit tests
-npm run unit
 
-# run e2e tests
-npm run e2e
+## Demo
 
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![Alt text](https://raw.githubusercontent.com/github123419/vuejs/master/dompetKamu/src/assets/images/poster-1.png) 
