@@ -13,7 +13,7 @@
 
 # npm start
 
-# view in browsers,input url: http://localhost:8080/pages/index
+# view in browsers,input url: http://localhost:[port]
 </pre>
 
 
